@@ -1,2 +1,3 @@
 # ModifiedLOLOfficialWebsite
-This is a parody of LOL's official website, with only a partial parody of the page and modifications  
+修改版lol官网前端
+仅实现部分页面
